@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 
 
 <!--
 **Eli-2020/Eli-2020** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
